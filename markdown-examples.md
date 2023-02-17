@@ -15,7 +15,7 @@ The following is a blockquote:
 > This is a block quote  
 > With a second line
 
-I am using 'git'.
+I am using `git`.
 
 This is a code block:
 
