@@ -2,7 +2,7 @@
 
 ## Heading 2
 
-333333 Heading 6
+###### Heading 6
 
 This is **bold**.
 
