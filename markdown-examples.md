@@ -39,4 +39,8 @@ This is an ordered list:
      -this is a sub-item
 1. Third item
 
+| Column 1 | Column 2 | Column 3|
+|..........|..........|.........|
+| data 1   | data 2   |data 3   |
+| and more | more yet | finally |
 
