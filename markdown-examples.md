@@ -28,7 +28,7 @@ git push origin main
 
 To add links to [UKY.edu] (https://www.uky.edu).
 
-This is a list:
+This is a list:  
 *First item  
 *Second item  
 *Third item  
