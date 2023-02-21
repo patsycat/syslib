@@ -16,8 +16,8 @@
 5. Create a new repository. Name: **syslib**
 
 More documentation on GitHub: 
-    https://docs.github.com/en
-    How to create ssh key(https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+    -https://docs.github.com/en
+    -[How to create ssh key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 ## Set Up Git
 
@@ -26,13 +26,13 @@ On the Linux server:
 Configure git on the remote server
 
 1. Configure identity and other defaults. From the command prompt:
-    `git config --global user.name "First Name Last Name"`
-    `git config --global user.email "firstlast@example.com"`
-    `git config --global core.editor nano`
-    `git config --global init.defaultBranch main`
+    -``git config --global user.name "First Name Last Name"`
+    -`git config --global user.email "firstlast@example.com"`
+    -`git config --global core.editor nano`
+    -`git config --global init.defaultBranch main`
 
-Check the settings:
-    `git config --list`
+2. Check the settings:
+    -`git config --list`
 
 More `git` documentation available:
 
@@ -70,5 +70,5 @@ When editing a file on GitHub, to syn to the local repo on the Linux server, fun
 
 Visit Markdown documentation here:
 
-    Markdown Documentation(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-    Markdown Cheatsheet(https://www.markdownguide.org/cheat-sheet/)
+    [Markdown Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+    [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
