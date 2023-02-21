@@ -41,13 +41,14 @@ https://git-scm.com/
 
 On the Linux server:  
 
-Make new directory in the home director. Name: **repos**  
-Change into the new director with cd command  
--Get the git URL from the green ##Code## dropdown box on the GitHub repo site. Clone using the repo using the following command:  
+Make new directory in the home directory. Name: **repos**  
+Change into the new directory with cd command  
+Get the git URL from the green **Code** dropdown box on the GitHub repo site.  
+Clone using the repo using the following command:  
 
 `git clone git@github.com:patsycat/repos.git`  
 
-Add files in cloned repo  
+Add files in cloned repo.  
 
 Track changes with: `git add .`  
 Commit changes and add message with: `git commit -m "add message in quotes"`  
@@ -61,7 +62,7 @@ Going forward, update by using these commands to sync the local repo to the GitH
 
 ## Editing on GitHub
 
-When editing a file on GitHub, to syn to the local repo on the Linux server, fun the following command:  
+When editing a file on GitHub, to syn to the local repo on the Linux server, use the following command:  
 
 `git pull origin main`
 
