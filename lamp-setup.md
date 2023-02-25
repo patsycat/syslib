@@ -2,7 +2,7 @@
 
 **Purpose:** The purpose of the lAMP process is to learn how to install and configure Apache, PHP, and MySQL on a Linux server. 
 
-Chapter: [Creating a LAMP Server] (https://cseanburns.net/WWW/systems-librarianship/p5-creating-a-lamp-server.html)  
+Chapter: [Creating a LAMP Server](https://cseanburns.net/WWW/systems-librarianship/p5-creating-a-lamp-server.html)  
 
 **Tasks:**  
 1. Install Apache2  
@@ -27,22 +27,7 @@ Chapter: [Creating a LAMP Server] (https://cseanburns.net/WWW/systems-librarians
  - Change to `cd /var/www/html/`  
  - Back up the index by using `sudo mv index.html index.html.original`  
  - Now go to `sudo nano index.html`  
- - Set up some html (see below)
-
-><html>  
-><head>  
-><title>My first web page using Apache2</title>  
-></head>  
-></body>  
->  
-><h1>Welcome</h1>  
->  
-><p>Welcome to my web site.  
->I created this site using the Apache2 HTTP server.</p>  
->  
-></body>  
-></html>  
-
+ - Set up html sample  
  - Reload the page
  - Can also view the original page by adding  `index.html.original`  
 
@@ -51,12 +36,7 @@ Chapter: [Creating a LAMP Server] (https://cseanburns.net/WWW/systems-librarians
  - Begin by using the commands `sudo apt install php libapache2-mod-php` followed by `sudo systemctl restart apache2`  
  - Check that it is running and for errors: `systemctl status apache2`  
  - Create a small php file: `cd /var/www/html/` followed by `sudo nano info.php`  
- - In the file, write some PHP script (see below)
-
-><?php  
->phoinfo();  
->?>  
-
+ - In the file, write sample PHP script
  - Visit the file using the extenernal IP address `/info.php` as follows: `http://34.171.67.164/info.php`  
 
 ### Configure for PHP  
@@ -70,24 +50,7 @@ Chapter: [Creating a LAMP Server] (https://cseanburns.net/WWW/systems-librarians
 ### Create Basic PHP Page  
 
  - Open an`index.php` file by using `cd /var/www/html/ and then `sudo nano index.php`
- - Add HTML and PHP to it (see below)
-
-><html>  
-><head>  
-><title>Browser Detector</title>  
-></head>  
-><body>  
-><p>You are using the following browser to view this site:</p>  
->  
-><?php  
->echo $_SERVER['HTTP_USER_AGENT'] . "\n\n";  
->  
->$browser = get_browser(null, true);  
->print_r($browser);  
->?>  
-></body>  
-></html>  
-
+ - Add sample HTML and PHP to it
  - Save the file and exit `nano`  
  - Point to the external IP address: `http://34.171.67.164/`  
 
@@ -99,11 +62,7 @@ Chapter: [Creating a LAMP Server] (https://cseanburns.net/WWW/systems-librarians
  - NOTE: When logged in at `root` the dollar sign becomes a pound sign `#`  
  - Type `mysql -u root` to login to mysqul  
  - Create a regular MySQL user: `create user 'opacuser'@'localhost' identified by 'xxxuse pw herexxxx';`  
- - Create database `opac.db` and then grant privileges to regular user. (see below)  
-
-> create database opacdb;  
-> grant all privileges on opacdb.* to 'opacuser'@'localhost';  
-
+ - Create database `opac.db` and then grant privileges to regular user. 
  - Remember to \q to leave MySQL user account.  
  - Practice and test commands (see chapter)  
  - Setup `login.php` file to autofill the password for the `opac.php file`  
