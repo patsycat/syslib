@@ -1,7 +1,7 @@
 # Git and GitHub Setup
 
 ## GitHub Setup
-1. On GitHub.com(https://github.com/)
+1. [On GitHub.com](https://github.com/)
 2. Set up GitHub account with personal email. (Make private in settings.)
 3. Create an SSH key on Linux server with the command found below. Use the email used to sign up for GitHub, surrounded with double-quotes.
 
