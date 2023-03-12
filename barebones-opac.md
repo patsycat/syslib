@@ -12,7 +12,7 @@ This week I understand that we are supposed to be more journaling understanding 
 
 ## Create the HTML Page  
 
-Starting on `/var/www.html` to create an HTML page with the command `sudo nano opacbb.html`. Here I'm creating a page that will essentially serve as an interface to the database. 
+Starting on `/var/www/html` to create an HTML page with the command `sudo nano opacbb.html`. Here I'm creating a page that will essentially serve as an interface to the database. 
 
 Within the html will be a call-out of sorts to the PHP script, which will run to fetch the items sought. As learned last week, any information can be pulled and ordered based on need; this week it is more about creating 
 and simple form via HTML to pull information into a listing output such as may be presented in easily read format to a patron. The HTML is the method for presenting the form and the output into the easily read format.   
