@@ -2,7 +2,7 @@
 
 **Purpose:** Learn the way data from a relational database is retrieved and entered using various technologies.
 
-Chapter: Find instructions here: [Creating a Bare Bones OPAC] (https://cseanburns.net/WWW/systems-librarianship/16.5-basic-opac.html)  
+Chapter: Find instructions here: [Creating a Bare Bones OPAC](https://cseanburns.net/WWW/systems-librarianship/16.5-basic-opac.html)  
 
 This week I understand that we are supposed to be more journaling understanding rather than only documenting process, which means something different to me. Changing up my format somewhat.  
 
