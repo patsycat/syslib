@@ -2,7 +2,7 @@
 
 **Purpose:** Download and install WordPress and create a Wordpress site.
 
-Chapter: Find instructions here: [Install Wordpress] (https://cseanburns.net/WWW/systems-librarianship/17-install-wordpress.html)  
+Chapter: Find instructions here: [Install Wordpress](https://cseanburns.net/WWW/systems-librarianship/17-install-wordpress.html)  
 
 This week's assignment was a little less complicated for me, and I enjoyed learning how to set up WordPress from scratch on my own server.    
 
