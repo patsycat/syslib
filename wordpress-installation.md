@@ -16,7 +16,7 @@ This week's assignment was a little less complicated for me, and I enjoyed learn
 
 ## Install WordPress using Customized Installation Process   
 
-Starting on `/var/www.html` to download the latest version of WordPress using `wget`. Both download and extraction were required. This created the **wordpress** directory, so that I needed to `CD` to **/var/www/html/wordpress**.  
+Starting on `/var/www/html` to download the latest version of WordPress using `wget`. Both download and extraction were required. This created the **wordpress** directory, so that I needed to `CD` to **/var/www/html/wordpress**.  
 
 ## Create Database and User  
 This part needed to be done as the MySQL user and therefore needed to be performed in the root Linux user. At this point I stayed in the root for a long time, not needing to use `sudo` for later commands simply because I didn't switch out. But I had learned enough at this point not to be concerned about it as long as I was following instructions carefully.  
