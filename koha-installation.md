@@ -20,7 +20,7 @@ We had to install a more robust server, so we returned to Google Cloud and set u
 
 ## Install Koha  
 
-Installation was easy but took about 5 minutes using `https://cseanburns.net/WWW/systems-librarianship/20-install-koha.html1`.
+Installation was easy but took about 5 minutes using `apt install koha-common`.
 
 ## Configure Koha
 Configuration was not difficult but took a number of steps. I almost skipped a step twice and caught myself. Instructions were very straightforward.
@@ -31,7 +31,7 @@ This required pulling the username and password from `/etc/koha/sites/bibliolib/
 
 ## Run the Install Script 
 
-Took me to the website to complete setup at `http://http://34.70.98.40:8080/`  
+Took me to the website to complete setup at `http://34.70.98.40:8080/`  
 
 The actual site is located at `http://http://34.70.98.40`.  
 
