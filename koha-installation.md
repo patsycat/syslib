@@ -2,7 +2,7 @@
 
 **Purpose:** Download and install Koha and create the basis for an Integrated Library Service (ILS).
 
-Chapter: Find instructions here: [Install Omeka](https://cseanburns.net/WWW/systems-librarianship/20-install-koha.html)  
+Chapter: Find instructions here: [Install Koha ILS](https://cseanburns.net/WWW/systems-librarianship/20-install-koha.html)  
 
 This week's documentation is dedicated to all the things I forgot! This task was very much like Wordpress but enough time had elapsed that I needed to review things and enough was different that I had to think through those differences one by one.   
 
