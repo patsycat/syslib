@@ -33,7 +33,7 @@ This required pulling the username and password from `/etc/koha/sites/bibliolib/
 
 Took me to the website to complete setup at `http://34.70.98.40:8080/`  
 
-The actual site is located at `http://http://34.70.98.40`.  
+The actual site is located at `http://34.70.98.40`.  
 
 ##  Finish Installation on the Website 
 
