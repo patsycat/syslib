@@ -2,7 +2,7 @@
 
 **Purpose:** Download and install OMEKA and create an OMEKA collection site.
 
-Chapter: Find instructions here: [Install Omeka](https://cseanburns.net/WWW/systems-librarianship/18-install-omeka.html)  
+Chapter: Find instructions here: [Install Omeka](https://cseanburns.github.io/systems-librarianship/18-install-omeka.html)  
 
 This week's documentation is dedicated to all the things I forgot! This task was very much like Wordpress but enough time had elapsed that I needed to review things and enough was different that I had to think through those differences one by one.   
 
@@ -34,9 +34,9 @@ Used the CHOWN command to change ownership, like last week.
 
 ## Run the Install Script 
 
-Took me to the website to complete setup at `http://34.171.67.164/omeka/admin`  
+Took me to the website to complete setup at http://34.171.67.164/omeka/admin  
 
-The actual site is located at `http://34.171.67.164/omeka/`.  
+The actual site is located at http://34.171.67.164/omeka/.  
 
 ##  Finish Installation on the Website 
 
