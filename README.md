@@ -1,5 +1,5 @@
 # Systems Librarianship
-Notes on systems librarianship.
+Notes on systems librarianship for LIS 690.
 
 Using this to show how to create a GitHub repo, use Git on the Linux command line, and keep documentation
 
