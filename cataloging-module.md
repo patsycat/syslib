@@ -2,7 +2,7 @@
 
 **Purpose:** Complete another module for a barebones ILS (Integrated Library System).  
 
-Chapter: Find instructions here: [Creating a Bare Bones OPAC](https://cseanburns.net/WWW/systems-librarianship/16.8-basic-opac-admin.html)    
+Chapter: Find instructions here: [Creating a Bare Bones OPAC](https://cseanburns.github.io/systems-librarianship/16.8-basic-opac-admin.html)    
 
 **Tasks:**  
 1. Create an `index.html` file in a new cataloging directory in `var/www/html`  
