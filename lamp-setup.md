@@ -2,7 +2,7 @@
 
 **Purpose:** The purpose of the lAMP process is to learn how to install and configure Apache, PHP, and MySQL on a Linux server. 
 
-Chapter: [Creating a LAMP Server](https://cseanburns.net/WWW/systems-librarianship/p5-creating-a-lamp-server.html)  
+Chapter: [Creating a LAMP Server](https://cseanburns.github.io/systems-librarianship/p5-creating-a-lamp-server.html)  
 
 **Tasks:**  
 1. Install Apache2  
